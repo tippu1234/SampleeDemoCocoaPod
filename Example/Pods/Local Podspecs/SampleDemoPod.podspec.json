@@ -1,0 +1,22 @@
+{
+  "name": "SampleDemoPod",
+  "version": "0.1.0",
+  "summary": "A short description of SampleDemoPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tippu1234/SampleDemoPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tippu1234": "tippu.openstream@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tippu1234/SampleDemoPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SampleDemoPod/Classes/**/*"
+}

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SampleDemoPod
 
 class ViewController: UIViewController {
 
